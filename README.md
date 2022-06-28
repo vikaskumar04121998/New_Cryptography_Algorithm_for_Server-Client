@@ -1,6 +1,6 @@
 # New_Cryptography_Algorithm_for_Server-Client
 
-we are using Bluetooth for transmission and receiving data.
+We are using Bluetooth for transmission and receiving data.
 
 Bluetooth security is to safeguard administrations presented by gadgets as well as allow without a doubt, unmistakable gadgets to associate. just like Wi-Fi Bluetooth can be very risky at some times. 
 
